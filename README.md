@@ -58,8 +58,7 @@ Finally, I used DNSRecon to enumerate DNS records. The results provided informat
 For the second activity, I used Zenmap to perform network discovery on my local network. The practical required me to identify my local IP address and subnet, discover live hosts, identify their IP and MAC addresses, and generate a network topology.
 I first used the Windows ipconfig command to identify my local IP address and LAN subnet. I then entered the subnet into Zenmap and selected Ping Scan to identify active hosts.
 The example results provided in the practical identified 14 live hosts:
-•	192.168.100.1<img width="889" height="716" alt="zenmap topology" src="https://github.com/user-attachments/assets/3d9f2a9f-5b28-4ef5-b8f0-5983370f439a" />
-
+•	192.168.100.1
 
 The example results also included four MAC addresses.
 After completing the scan, I opened the Topology section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
@@ -125,6 +124,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <img width="710" height="473" alt="wafw00f" src="https://github.com/user-attachments/assets/863c055a-c84f-43d7-9884-eb085dbdc78d" />
 <img width="694" height="366" alt="whatweb results" src="https://github.com/user-attachments/assets/7acf0383-1059-4bff-80b9-47b18eebcce2" />
 <img width="702" height="626" alt="whois result" src="https://github.com/user-attachments/assets/f8eff2f3-d93e-4678-9e63-c6e347a24bb4" />
+<img width="889" height="716" alt="zenmap topology" src="https://github.com/user-attachments/assets/074281f7-8584-4ee7-b428-d995394835a6" />
 
 
 
